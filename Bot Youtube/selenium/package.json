@@ -5,7 +5,7 @@
     "@bazel/ibazel": "^0.10.3",
     "@bazel/jasmine": "^0.32.2",
     "express": "^4.16.4",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "mocha": "^6.2.3",
     "multer": "^1.4.2",
     "rimraf": "^2.7.1",
